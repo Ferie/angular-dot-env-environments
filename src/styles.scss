@@ -1,2 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
-@import "./assets/sass/style.scss";
+
+// Import font
+@import url('https://fonts.googleapis.com/css?family=Raleway:300');
+
+* {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
